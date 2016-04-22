@@ -3,6 +3,9 @@
 Simple dialog functions saving our memory from a Java mess.
 This may be useful to working in REPL rather than run a task or a compiled JAR.
 
+## Depencency
+[![Clojars Project](https://img.shields.io/clojars/v/clj-desktop-dialog.svg)](https://clojars.org/clj-desktop-dialog)
+
 ## Usage
 
     (require '[clj-desktop-dialog.core :as dialog])
