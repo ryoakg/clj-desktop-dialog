@@ -1,4 +1,4 @@
-(defproject clj-desktop-dialog "0.1.0-SNAPSHOT"
+(defproject ryo/clj-desktop-dialog "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
